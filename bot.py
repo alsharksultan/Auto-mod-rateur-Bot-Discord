@@ -5,7 +5,7 @@ import discord
 class MyClient(discord.Client):
 
     async def on_ready(self):
-        print('Logged on as', self.user)
+        print('Connecté en tant que', self.user)
 
     async def on_message(self, message):
         # Add any word you don't wan't people say in you're server discord
