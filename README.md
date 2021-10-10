@@ -1,6 +1,6 @@
 # Auto-moderateur-Bot-Discord
 
-Easy to setup 
+# Easy to setup 
 
 Install python 3.9.X
 
